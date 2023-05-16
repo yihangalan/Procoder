@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{83EAA6AB-F33C-488B-BB3A-1DFADA55A07D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProCoder/Dtos/CommentOutDto.cs">
+    <Files>
+      <File FileName="ProCoder/Dtos/CommentOutDto.cs" Line="11" Column="22" />
+      <File FileName="ProCoder/Dtos/QuestionOutDto.cs" Line="12" Column="22" />
+      <File FileName="ProCoder/Data/Repo.cs" Line="126" Column="10" />
+      <File FileName="ProCoder/Model/Comment.cs" Line="15" Column="22" />
+      <File FileName="ProCoder/Model/FollowComment.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Model/Question.cs" Line="21" Column="34" />
+      <File FileName="ProCoder/Model/Solution.cs" Line="18" Column="22" />
+      <File FileName="ProCoder/Dtos/AdminInputDto.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Dtos/AdminOutputDto.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Dtos/CommentInputDto.cs" Line="12" Column="22" />
+      <File FileName="ProCoder/Dtos/FollowCommentInputDto.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Dtos/FollowCommentOutputDto.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Dtos/QuestioInputDto.cs" Line="12" Column="22" />
+      <File FileName="ProCoder/Dtos/SolutionOutDto.cs" Line="15" Column="22" />
+      <File FileName="ProCoder/Dtos/SolutionInputDto.cs" Line="14" Column="22" />
+      <File FileName="ProCoder/Dtos/UserAchievementInputDto.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Dtos/UserAchievementOutDto.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Dtos/UserInputDto.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Dtos/UserOutDto.cs" Line="10" Column="1" />
+      <File FileName="ProCoder/Model/Achievement.cs" Line="12" Column="27" />
+      <File FileName="ProCoder/Model/AdminUser.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Model/Tag.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Model/User.cs" Line="16" Column="19" />
+      <File FileName="ProCoder/Model/UserAchievement.cs" Line="13" Column="1" />
+      <File FileName="ProCoder/Program.cs" Line="68" Column="1" />
+      <File FileName="ProCoder/Controllers/AchievementController.cs" Line="36" Column="56" />
+      <File FileName="ProCoder/Controllers/TestController.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Controllers/CommentController.cs" Line="135" Column="2" />
+      <File FileName="ProCoder/Controllers/UserController.cs" Line="80" Column="14" />
+      <File FileName="ProCoder/Controllers/SolutionController.cs" Line="1" Column="1" />
+      <File FileName="ProCoder/Controllers/QuestionController.cs" Line="1" Column="1" />
+      <File FileName="../../../../../../usr/local/share/dotnet/sdk/6.0.401/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="267" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProCoder" expanded="True">
+            <Node name="ProCoder" expanded="True">
+              <Node name="Template" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ProCoder PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

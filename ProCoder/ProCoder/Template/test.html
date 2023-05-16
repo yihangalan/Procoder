@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="ace/src/ace.js" type="text/javascript" charset="utf-8"></script>
+    <script src="ace/src/mode-javascript.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+<div id="aa" style="height: 300px" class="">
+
+</div>
+
+<script>
+    let editor = ace.edit("aa")
+    editor.setTheme("ace/theme/github")
+    editor.session.setMode(`ace/mode/python`)
+    editor.setOption({
+        autoScrollEditorIntoView: true,
+        copyWithEmptySelection: true,
+        mergeUndoDeltas: "always",
+        animatedScroll: true
+    })
+    editor.insert(`print("hello World")`)
+</script>
+
+</body>
+</html>

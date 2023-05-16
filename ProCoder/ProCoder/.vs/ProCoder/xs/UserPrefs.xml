@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6D289DD9-1435-4D93-96E0-F803957035F3}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Model/Achievement.cs" Line="7" Column="6" />
+      <File FileName="Model/Solution.cs" Line="8" Column="14" />
+      <File FileName="Model/Question.cs" Line="18" Column="23" />
+      <File FileName="Model/Comment.cs" Line="13" Column="1" />
+      <File FileName="Model/User.cs" Line="15" Column="19" />
+      <File FileName="Model/UserAchievement.cs" Line="15" Column="48" />
+      <File FileName="Model/FollowComment.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="2" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProCoder" expanded="True">
+            <Node name="ProCoder" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProCoder PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

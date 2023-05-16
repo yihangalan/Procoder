@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="813b7c8b-7fd9-42c3-b252-55839ced27ea" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9b603611-72e2-4de3-9984-aa02f8771a45" />
+        <option name="url" value="https://github.com/uoa-compsci399-s2-2022/ProCoder.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DWgPjHNzNPYRJYEAWojbleCM3X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/13373/ProCoder/ProCoder/ProCoder/template/static&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\13373\ProCoder\ProCoder\ProCoder\template\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\13373\ProCoder\ProCoder\ProCoder\template\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="813b7c8b-7fd9-42c3-b252-55839ced27ea" name="Changes" comment="" />
+      <created>1660820232339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660820232339</updated>
+      <workItem from="1660820233674" duration="2415000" />
+      <workItem from="1660976943528" duration="1865000" />
+      <workItem from="1661135247862" duration="25000" />
+      <workItem from="1661407050801" duration="6828000" />
+      <workItem from="1661837720303" duration="17882000" />
+      <workItem from="1662097801073" duration="13469000" />
+      <workItem from="1662269967345" duration="12028000" />
+      <workItem from="1662721905544" duration="42284000" />
+      <workItem from="1663234180520" duration="1906000" />
+      <workItem from="1663294146718" duration="3224000" />
+      <workItem from="1663298258471" duration="3315000" />
+      <workItem from="1662721905544" duration="41573000" />
+      <workItem from="1663205394357" duration="15680000" />
+      <workItem from="1663557792687" duration="3767000" />
+      <workItem from="1663573550877" duration="8270000" />
+      <workItem from="1663654231550" duration="9354000" />
+      <workItem from="1663723448137" duration="63000" />
+      <workItem from="1663723821774" duration="48000" />
+      <workItem from="1663723885250" duration="8872000" />
+      <workItem from="1663737447362" duration="2515000" />
+      <workItem from="1663827038821" duration="102000" />
+      <workItem from="1663914649905" duration="6157000" />
+      <workItem from="1664188185275" duration="2872000" />
+      <workItem from="1664193187199" duration="5917000" />
+      <workItem from="1664264123813" duration="3570000" />
+      <workItem from="1664280547281" duration="6032000" />
+      <workItem from="1664298223542" duration="633000" />
+      <workItem from="1664344770492" duration="11335000" />
+      <workItem from="1664519573988" duration="9272000" />
+      <workItem from="1665191031913" duration="2776000" />
+      <workItem from="1665215899357" duration="1730000" />
+      <workItem from="1665452473737" duration="17749000" />
+      <workItem from="1665540681934" duration="15408000" />
+      <workItem from="1665565100183" duration="356000" />
+      <workItem from="1665637917239" duration="3000" />
+      <workItem from="1665637929856" duration="6876000" />
+      <workItem from="1665716928194" duration="4503000" />
+      <workItem from="1665757641755" duration="3833000" />
+      <workItem from="1665973026297" duration="2977000" />
+      <workItem from="1666021546636" duration="7507000" />
+      <workItem from="1666060035558" duration="452000" />
+      <workItem from="1666165484325" duration="34000" />
+      <workItem from="1666170516301" duration="1193000" />
+      <workItem from="1666246050274" duration="1874000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cs" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="fran" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

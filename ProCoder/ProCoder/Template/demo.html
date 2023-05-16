@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="ace/src/ace.js" type="text/javascript" charset="utf-8"></script>
+    <script src="ace/src/theme-twilight.js" type="text/javascript" charset="utf-8"></script>
+    <script src="ace/src/mode-javascript.js" type="text/javascript" charset="utf-8"></script>
+
+    <style>
+        #editor {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            height: 50%;
+        }
+    </style>
+</head>
+<body>
+
+
+
+
+<input type="button" value="submit">
+
+
+<div class="modal fade" id="staticBackdrop${id}" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content" style="background-color: transparent; border: none">
+            <div class="modal-body" style="overflow-x: hidden; overflow-y:hidden">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="card border-warning">
+                            <div class="card-body">
+                                <div class="row justify-content-end">
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="collapse show" id="description">
+                                    <h5 class="card-title"><strong>Question Title:</strong>${title}</h5><br>
+                                    <p class="card-text"><strong>Question Description:</strong><p>${content.slice(0, 50)}</p>
+                                </div>
+                                <div class="row">
+                                    <div class="col-10">
+                                        <a href="question.html?questionID=${id}" class="btn btn-outline-success">View Question</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="ace/src/ace.js" type="text/javascript" charset="utf-8"></script>
+<script>
+
+   var editor = ace.edit("editor");
+   editor.setTheme("ace/theme/github");
+   editor.session.setMode("ace/mode/python");
+
+   // use setOptions method to set several options at once
+   editor.setOptions({
+       autoScrollEditorIntoView: true,
+       copyWithEmptySelection: true,
+   });
+   // use setOptions method
+   editor.setOption("mergeUndoDeltas", "always");
+
+   // to get the value of the option use
+   editor.resize()
+   editor.insert("function f():\n");
+
+   editor.getValue();
+
+   document.getElementById('editor').style.fontSize='14px';
+
+
+
+
+
+</script>
+
+</body>
+</html>
